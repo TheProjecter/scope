@@ -1,0 +1,1 @@
+Scope is a unit testing framework for C++. Scope lowers the barrier to entry for test driven development while providing innovative functionality for handling thousands of test cases. Emphasis is placed on minimal syntax and adherence to modern C++ design principles.
